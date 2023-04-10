@@ -1,0 +1,662 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Phaethornis",
+          "phaethornis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Phaethornis"
+      },
+      {
+        "from": [
+          "Myiothlypis",
+          "MyIothlypis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Myiothlypis"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Helidoxa",
+          "Heliodoxa"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Heliodoxa"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Myiothlypis",
+          "Myiothylpis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Myiothlypis"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Phylloscartes",
+          "Phyllocartes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Phylloscartes"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Nephelomyias",
+          "Nephelomyas"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Nephelomyias"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Glyphorhynchus",
+          "Glyphorynchus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Glyphorynchus"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Phaethornis",
+          "Phaetornis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Phaethornis"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Rhynchocyclus",
+          "Rynchocyclus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Rhynchocyclus"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Lepidothrix",
+          "Lepidotrix"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Lepidothrix"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Boissonneava",
+          "Boissonneaua",
+          "Boissoneaua"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Boissonneaua"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Iridosornis",
+          "Iridsornis"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Iridosornis"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Cyphorinhus",
+          "Cyphorhinus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Cyphorhinus"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Phaethornis",
+          "Phaethoris"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Phaethornis"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Syndactyla",
+          "Sydactyla"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Syndactyla"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Scytalopus",
+          "Scytaloptus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Scytalopus"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Troglodytes",
+          "Trogloydes"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Troglodytes"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Species",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "sp.",
+          "sp"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "sp."
+      }
+    ],
+    "description": "Mass edit cells in column Species"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Species",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "xanthogaster",
+          "Xanthogaster"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "xanthogaster"
+      }
+    ],
+    "description": "Mass edit cells in column Species"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Species",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "olivaceus",
+          "Olivaceus"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "olivaceus"
+      }
+    ],
+    "description": "Mass edit cells in column Species"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Species",
+          "expression": "value",
+          "columnName": "Species",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "flavirostris",
+                "l": "flavirostris"
+              }
+            },
+            {
+              "v": {
+                "v": "flaviorostris",
+                "l": "flaviorostris"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Genus",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Grallicula"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Grallaricula"
+      }
+    ],
+    "description": "Mass edit cells in column Genus"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Species",
+          "expression": "value",
+          "columnName": "Species",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "flavirostris",
+                "l": "flavirostris"
+              }
+            },
+            {
+              "v": {
+                "v": "flaviorostris",
+                "l": "flaviorostris"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Species",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "flavirostris"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "flavirostris"
+      }
+    ],
+    "description": "Mass edit cells in column Species"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Species",
+          "expression": "value",
+          "columnName": "Species",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "flavirostris",
+                "l": "flavirostris"
+              }
+            },
+            {
+              "v": {
+                "v": "flaviorostris",
+                "l": "flaviorostris"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Species",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "flaviorostris"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "flavirostris"
+      }
+    ],
+    "description": "Mass edit cells in column Species"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "list",
+          "name": "Species",
+          "expression": "value",
+          "columnName": "Species",
+          "invert": false,
+          "omitBlank": false,
+          "omitError": false,
+          "selection": [
+            {
+              "v": {
+                "v": "rubra",
+                "l": "rubra"
+              }
+            },
+            {
+              "v": {
+                "v": "riefferi",
+                "l": "riefferi"
+              }
+            },
+            {
+              "v": {
+                "v": "riefferii",
+                "l": "riefferii"
+              }
+            }
+          ],
+          "selectBlank": false,
+          "selectError": false
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Species",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "riefferi"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "riefferii"
+      }
+    ],
+    "description": "Mass edit cells in column Species"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Species",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "mellivora",
+          "melivora"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "mellivora"
+      }
+    ],
+    "description": "Mass edit cells in column Species"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sex",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NA"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "U"
+      }
+    ],
+    "description": "Mass edit cells in column sex"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "sex",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Indet."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "U"
+      }
+    ],
+    "description": "Mass edit cells in column sex"
+  }
+]
